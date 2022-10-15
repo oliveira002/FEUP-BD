@@ -1,4 +1,3 @@
-# DA 21/22 Projects
 ~ 1st delivery grade (14.10/20)
 
 ~ 2nd delivery grade (18.80/20)
