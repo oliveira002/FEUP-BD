@@ -1,7 +1,9 @@
-~ 1st delivery grade (14.10/20)
+# BD 21/22
 
-~ 2nd delivery grade (18.80/20)
+## Course Grades
 
-~ 3rd delivery grade (17.10/20)
+| | 1st Delivery | 2nd Delivery | 3rd Delivery | Final Grade |
+| --- | --- | --- | --- | --- |
+| Grade | **14.10** | **18.80**| **17.10**  | **16.80** |
 
-~ final grade (16.80/20)
+
